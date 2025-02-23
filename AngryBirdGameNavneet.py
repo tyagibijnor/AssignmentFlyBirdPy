@@ -4,7 +4,7 @@ import random
 from random import randint,randrange
 
 black = (0,0,0)
-white = (255,255,255)
+white = (254,255,255)
 
 greenyellow = (184,255,0)
 brightblue = (47,228,253)
